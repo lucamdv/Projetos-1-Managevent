@@ -1,0 +1,28 @@
+{
+    "artista":[
+        {
+    "nome_banda_artista": "",
+    "genero_musical": "",
+    "localizacao": {
+      "cidade": "",
+      "estado_provincia": ""
+    },
+    "telefone_contato": "",
+    "email_contato": "",
+    "descricao_banda_artista": "",
+    "repertorio": "",
+    "disponibilidade_agendamento": {
+      "dias_semana": [],
+      "horarios_disponiveis": ""
+    },
+    "faixa_preco_apresentacao": {
+      "preco_base": "",
+      "custos_adicionais": ""
+    },
+    "links_performance": [],
+    "website": "",
+    "instagram": ""
+}
+]
+  }
+  
