@@ -1,0 +1,64 @@
+{
+    "locais": [
+        {
+            "nome_local": "",
+            "endereco": "",
+            "cidade": "",
+            "estado_provincia": "",
+            "cep": "",
+            "telefone_contato": "",
+            "email_contato": "",
+            "tipo_local": "",
+            "descricao_local": "",
+            "horario_funcionamento": ""
+        },
+        {
+            "nome_local": "",
+            "endereco": "",
+            "cidade": "",
+            "estado_provincia": "",
+            "cep": "",
+            "telefone_contato": "",
+            "email_contato": "",
+            "tipo_local": "",
+            "descricao_local": "",
+            "horario_funcionamento": ""
+        },
+        {
+            "nome_local": "",
+            "endereco": "",
+            "cidade": "",
+            "estado_provincia": "",
+            "cep": "",
+            "telefone_contato": "",
+            "email_contato": "",
+            "tipo_local": "",
+            "descricao_local": "",
+            "horario_funcionamento": ""
+        },
+        {
+            "nome_local": "",
+            "endereco": "",
+            "cidade": "",
+            "estado_provincia": "",
+            "cep": "",
+            "telefone_contato": "",
+            "email_contato": "",
+            "tipo_local": "",
+            "descricao_local": "",
+            "horario_funcionamento": ""
+        },
+        {
+            "nome_local": "",
+            "endereco": "",
+            "cidade": "",
+            "estado_provincia": "",
+            "cep": "",
+            "telefone_contato": "",
+            "email_contato": "",
+            "tipo_local": "",
+            "descricao_local": "",
+            "horario_funcionamento": ""
+        }
+    ]
+}

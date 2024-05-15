@@ -1,0 +1,21 @@
+{
+    "nome_local": "b",
+    "endereco": "",
+    "cidade": "",
+    "estado_provincia": "",
+    "pais": "",
+    "cep": "",
+    "telefone_contato": "",
+    "email_contato": "",
+    "tipo_local": "",
+    "descricao_local": "",
+    "horario_funcionamento": {
+        "segunda-feira": "",
+        "terca-feira": "",
+        "quarta-feira": "",
+        "quinta-feira": "",
+        "sexta-feira": "",
+        "sabado": "",
+        "domingo": ""
+    }
+}

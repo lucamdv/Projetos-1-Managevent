@@ -1,0 +1,30 @@
+{
+    "fotografia":[
+        {
+    "nome_servico_fotografia": "a",
+    "localizacao": {
+        "cidade": "a",
+        "estado_provincia": "a"
+    },
+    "telefone_contato": "a",
+    "email_contato": "a",
+    "especialidade_fotografica": "a",
+    "portfolio": "a",
+    "disponibilidade_agendamento": {
+        "dias_semana": [
+            "a"
+        ],
+        "horarios_disponiveis": "a"
+    },
+    "faixa_preco_servico": {
+        "preco_base": "a",
+        "custos_adicionais": "a"
+    },
+    "redes_sociais_website": {
+        "instagram": "a",
+        "website": "a"
+    },
+    "descricao_servico": "a"
+}
+    ]
+}
