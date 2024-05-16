@@ -10,55 +10,15 @@
             "email_contato": "",
             "tipo_local": "",
             "descricao_local": "",
-            "horario_funcionamento": ""
-        },
-        {
-            "nome_local": "",
-            "endereco": "",
-            "cidade": "",
-            "estado_provincia": "",
-            "cep": "",
-            "telefone_contato": "",
-            "email_contato": "",
-            "tipo_local": "",
-            "descricao_local": "",
-            "horario_funcionamento": ""
-        },
-        {
-            "nome_local": "",
-            "endereco": "",
-            "cidade": "",
-            "estado_provincia": "",
-            "cep": "",
-            "telefone_contato": "",
-            "email_contato": "",
-            "tipo_local": "",
-            "descricao_local": "",
-            "horario_funcionamento": ""
-        },
-        {
-            "nome_local": "",
-            "endereco": "",
-            "cidade": "",
-            "estado_provincia": "",
-            "cep": "",
-            "telefone_contato": "",
-            "email_contato": "",
-            "tipo_local": "",
-            "descricao_local": "",
-            "horario_funcionamento": ""
-        },
-        {
-            "nome_local": "",
-            "endereco": "",
-            "cidade": "",
-            "estado_provincia": "",
-            "cep": "",
-            "telefone_contato": "",
-            "email_contato": "",
-            "tipo_local": "",
-            "descricao_local": "",
-            "horario_funcionamento": ""
+            "horario_funcionamento": {
+                "segunda-feira": "",
+                "terca-feira": "",
+                "quarta-feira": "",
+                "quinta-feira": "",
+                "sexta-feira": "",
+                "sabado": "",
+                "domingo": ""
+            }
         }
     ]
 }

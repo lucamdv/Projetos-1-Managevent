@@ -1,35 +1,20 @@
 {
-    "buffet":[
-    {
-    "nome_servico_buffet": "bb",
-    "endereco": "bb",
-    "cidade": "bbb",
-    "estado_provincia": "bbbb",
-    "cep": "bbb",
-    "telefone_contato": "bbb",
-    "email_contato": "bbb",
-    "descricao_servico_buffet": "bbb",
-    "tipos_eventos_atendidos": [
-        "bbb"
-    ],
-    "cardapios_oferecidos": [
-        "bbb"
-    ],
-    "capacidade_atendimento": "bbb",
-    "horario_funcionamento": {
-        "segunda-feira": "bbb",
-        "terca-feira": "bbb",
-        "quarta-feira": "bbb",
-        "quinta-feira": "bbb",
-        "sexta-feira": "bbb",
-        "sabado": "bbb",
-        "domingo": "bbb"
-    },
-    "faixa_preco_por_pessoa": "bbb",
-    "redes_sociais_website": {
-        "instagram": "bbb",
-        "website": "bbb"
-    }
-}
-]
+    "buffet": [
+        {
+            "nome_servico_buffet": "",
+            "endereco": "",
+            "cidade": "",
+            "estado_provincia": "",
+            "cep": "",
+            "telefone_contato": "",
+            "email_contato": "",
+            "descricao_servico_buffet": "",
+            "tipos_eventos_atendidos": "",
+            "cardapios_oferecidos": "",
+            "capacidade_atendimento": "",
+            "horario_funcionamento": "",
+            "faixa_preco_por_pessoa": "",
+            "redes_sociais_website": ""
+        }
+    ]
 }

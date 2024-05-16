@@ -10,54 +10,12 @@
             "email_contato": "",
             "tipo_local": "",
             "descricao_local": "",
-            "horario_funcionamento": {
-                "segunda-feira": "",
-                "terca-feira": "",
-                "quarta-feira": "",
-                "quinta-feira": "",
-                "sexta-feira": "",
-                "sabado": "",
-                "domingo": ""
-            },
-            "tipo_servico_bebidas": "aaaa",
-            "descricao_servico": "aaa",
-            "tipos_bebidas_oferecidas": [
-                "aa"
-            ],
-            "faixa_preco": "aaa",
-            "redes_sociais_website": {
-                "instagram": "aaa",
-                "website": "aaa"
-            },
-            "open_bar": "sim"
-        },
-        {
-            "nome_servico": "agua",
-            "endereco": "",
-            "cidade": "",
-            "estado_provincia": "",
-            "cep": "",
-            "telefone_contato": "",
-            "email_contato": "",
+            "horario_funcionamento": "",
             "tipo_servico_bebidas": "",
             "descricao_servico": "",
-            "tipos_bebidas_oferecidas": [
-                ""
-            ],
-            "horario_funcionamento": {
-                "segunda-feira": "",
-                "terca-feira": "",
-                "quarta-feira": "",
-                "quinta-feira": "",
-                "sexta-feira": "",
-                "sabado": "",
-                "domingo": ""
-            },
+            "tipos_bebidas_oferecidas": "",
             "faixa_preco": "",
-            "redes_sociais_website": {
-                "instagram": "",
-                "website": ""
-            },
+            "redes_sociais_website": "",
             "open_bar": ""
         }
     ]
