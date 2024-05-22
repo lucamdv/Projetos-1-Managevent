@@ -12,9 +12,20 @@
             "tipos_eventos_atendidos": "",
             "cardapios_oferecidos": "",
             "capacidade_atendimento": "",
-            "horario_funcionamento": "",
+            "horario_funcionamento": {
+                "segunda-feira": "",
+                "terca-feira": "",
+                "quarta-feira": "",
+                "quinta-feira": "",
+                "sexta-feira": "",
+                "sabado": "",
+                "domingo": ""
+            },
             "faixa_preco_por_pessoa": "",
-            "redes_sociais_website": ""
+            "redes_sociais_website": {
+                "instagram": "",
+                "website": ""
+            }
         }
     ]
 }

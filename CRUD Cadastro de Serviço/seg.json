@@ -10,7 +10,7 @@
     "email_contato": "",
     "especialidades_seguranca": "",
     "equipe_seguranca": {
-      "numero_funcionarios": 0,
+      "numero_funcionarios": "",
       "experiencia": ""
     },
     "licencas_certificacoes": "",

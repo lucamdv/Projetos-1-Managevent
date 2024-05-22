@@ -10,12 +10,23 @@
             "email_contato": "",
             "tipo_local": "",
             "descricao_local": "",
-            "horario_funcionamento": "",
+            "horario_funcionamento": {
+                "segunda-feira": "",
+                "terca-feira": "",
+                "quarta-feira": "",
+                "quinta-feira": "",
+                "sexta-feira": "",
+                "sabado": "",
+                "domingo": ""
+            },
             "tipo_servico_bebidas": "",
             "descricao_servico": "",
             "tipos_bebidas_oferecidas": "",
             "faixa_preco": "",
-            "redes_sociais_website": "",
+            "redes_sociais_website": {
+                "instagram": "",
+                "website": ""
+            },
             "open_bar": ""
         }
     ]
