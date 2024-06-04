@@ -1,25 +1,20 @@
 import json
 import os
 
-# Define o caminho para o arquivo JSON
 DATA_FILE = 'reclamacoes.json'
 
-# Inicializa o arquivo JSON se ele não existir
 if not os.path.exists(DATA_FILE):
     with open(DATA_FILE, 'w') as f:
         json.dump([], f)
 
-# Função para ler os dados do arquivo JSON
 def read_data():
     with open(DATA_FILE, 'r') as f:
         return json.load(f)
 
-# Função para escrever os dados no arquivo JSON
 def write_data(data):
     with open(DATA_FILE, 'w') as f:
         json.dump(data, f, indent=4)
-
-# Função para criar uma reclamação
+        
 def create_complaint():
     reclamacoes = read_data()
     nome_cliente = input("Digite o nome do cliente: ")
@@ -38,13 +33,11 @@ def create_complaint():
     write_data(reclamacoes)
     print("Reclamação criada com sucesso!")
 
-# Função para ler todas as reclamações
 def get_complaints():
     reclamacoes = read_data()
     for reclamacao in reclamacoes:
         print(json.dumps(reclamacao, indent=4))
 
-# Função para ler uma única reclamação
 def get_complaint():
     reclamacoes = read_data()
     id = int(input("Digite o ID da reclamação: "))
@@ -54,7 +47,6 @@ def get_complaint():
     else:
         print(json.dumps(reclamacao, indent=4))
 
-# Função para atualizar uma reclamação
 def update_complaint():
     reclamacoes = read_data()
     id = int(input("Digite o ID da reclamação: "))
@@ -80,7 +72,6 @@ def update_complaint():
         write_data(reclamacoes)
         print("Reclamação atualizada com sucesso!")
 
-# Função para deletar uma reclamação
 def delete_complaint():
     reclamacoes = read_data()
     id = int(input("Digite o ID da reclamação: "))
@@ -92,7 +83,6 @@ def delete_complaint():
         write_data(reclamacoes)
         print("Reclamação deletada com sucesso!")
 
-# Função principal para exibir o menu e lidar com a entrada do usuário
 def main():
     while True:
         print("\nSistema de Gestão de Reclamações")
