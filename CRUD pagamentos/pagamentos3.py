@@ -326,7 +326,7 @@ def ver_pagamentos():
 
 
 def apagar_perfil():
-    print("Apagando o seu perfil")
+    print("Apagando o seu perfil de ")
 
 
 
