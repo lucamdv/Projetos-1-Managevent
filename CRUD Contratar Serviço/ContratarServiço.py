@@ -78,7 +78,7 @@ def escolha_local():
         elif escolha == '4':
             return
         else:
-            print("Escolha inválida")
+            sleep(1)
             continue
         if perguntar_se_adicionar_outro():
             return
@@ -104,7 +104,7 @@ def escolha_banda():
         elif escolha == '4':
             return
         else:
-            print("Escolha inválida")
+            sleep(1)
             continue
         if perguntar_se_adicionar_outro():
             return
@@ -130,7 +130,7 @@ def escolha_seguranca():
         elif escolha == '4':
             return
         else:
-            print("Escolha inválida")
+            sleep(1)
             continue
         if perguntar_se_adicionar_outro():
             return
@@ -158,7 +158,7 @@ def escolha_fotografia():
         elif escolha == '4':
             return
         else:
-            print("Escolha inválida")
+            sleep(1)
             continue
         if perguntar_se_adicionar_outro():
             return
@@ -183,7 +183,7 @@ def escolha_bar():
         elif escolha == '4':
             return
         else:
-            print("Escolha inválida")
+            sleep(1)
             continue
         if perguntar_se_adicionar_outro():
             return
@@ -208,8 +208,8 @@ def escolha_alimentacao():
         elif escolha == '4':
             return
         else:
-            print("Escolha inválida")
-            continue
+            print("Digito invalido, tente novamente contratar o servico")
+            return False
         if perguntar_se_adicionar_outro():
             return
 
@@ -234,6 +234,8 @@ def perguntar_se_adicionar_outro():
                     print("=" * 50)
             sys.exit()
         else:
-            print("Escolha inválida")
+            sleep(1)
+            continue
+                
 
 menu_principal()
