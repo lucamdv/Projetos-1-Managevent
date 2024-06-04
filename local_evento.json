@@ -1,0 +1,24 @@
+{
+    "locais": [
+        {
+            "nome_local": "Praia",
+            "endereco": "rua jorge",
+            "cidade": "recife",
+            "estado_provincia": "pe",
+            "cep": "51020",
+            "telefone_contato": "9182",
+            "email_contato": "asasa",
+            "tipo_local": "laaaa",
+            "descricao_local": "sss",
+            "horario_funcionamento": {
+                "segunda-feira": "aa",
+                "terca-feira": "1",
+                "quarta-feira": "2",
+                "quinta-feira": "1",
+                "sexta-feira": "4",
+                "sabado": "1",
+                "domingo": "41"
+            }
+        }
+    ]
+}

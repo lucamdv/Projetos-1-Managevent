@@ -56,6 +56,7 @@ def menu_principal():
             break
         else:
             print("Escolha Inválida")
+            sleep(1)
 
 def escolha_local():
     while True:
@@ -79,8 +80,6 @@ def escolha_local():
         else:
             print("Escolha inválida")
             continue
-        
-        print(f"Você escolheu o {escolhas['local']}.")
         if perguntar_se_adicionar_outro():
             return
 
@@ -107,10 +106,9 @@ def escolha_banda():
         else:
             print("Escolha inválida")
             continue
-
-        print(f"Você escolheu a {escolhas['banda']}.")
         if perguntar_se_adicionar_outro():
             return
+        
 
 def escolha_seguranca():
     while True:
@@ -134,10 +132,11 @@ def escolha_seguranca():
         else:
             print("Escolha inválida")
             continue
-
-        print(f"Você escolheu o serviço de {escolhas['seguranca']}.")
         if perguntar_se_adicionar_outro():
             return
+
+       
+        
 
 def escolha_fotografia():
     while True:
@@ -161,8 +160,6 @@ def escolha_fotografia():
         else:
             print("Escolha inválida")
             continue
-
-        print(f"Você escolheu o serviço de {escolhas['fotografia']}.")
         if perguntar_se_adicionar_outro():
             return
 
@@ -188,8 +185,6 @@ def escolha_bar():
         else:
             print("Escolha inválida")
             continue
-
-        print(f"Você escolheu o serviço de {escolhas['bar']}.")
         if perguntar_se_adicionar_outro():
             return
 
@@ -215,8 +210,6 @@ def escolha_alimentacao():
         else:
             print("Escolha inválida")
             continue
-
-        print(f"Você escolheu o serviço de {escolhas['alimentacao']}.")
         if perguntar_se_adicionar_outro():
             return
 

@@ -95,3 +95,4 @@ def main() -> None:
             print("Opção inválida. Por favor, escolha uma opção válida.")
 
 if __name__== "_main_": main()
+
